@@ -4,12 +4,12 @@ code for the machine learning work in the paper "A Broad Range of Aromatic Carbo
 Machine Learning Analysis for Photocatalytic Methane Oxidation
 
 
-Project Overview
+**Project Overview**
 
 This repository contains the machine learning analysis for the paper "A Broad Range of Aromatic Carboxylic Acids for Photocatalytic Methane Oxidation". The research explores the performance of various aromatic carboxylic acids as photosensitizers in methane photocatalytic oxidation and establishes structure-performance relationships using machine learning methods.
 
 
-Key Features
+**Key Features**
 
 Decision tree models for predicting photosensitizer performance
 
@@ -20,7 +20,7 @@ Visualization of feature importance and feature contributions
 Detailed analysis of specific photosensitizers including TCPP
 
 
-Dataset
+**Dataset**
 
 The dataset includes structural features and performance metrics for various aromatic carboxylic acid photosensitizers:
 
@@ -35,7 +35,7 @@ Absorbance data
 Methane oxidation performance indicators
 
 
-Technologies Used
+**Technologies Used**
 
 Decision tree regression/classification
 
@@ -48,7 +48,7 @@ Cross-validation
 Data visualization
 
 
-Main Results
+**Main Results**
 
 Identification of key molecular features affecting photocatalytic methane oxidation performance
 
@@ -59,7 +59,7 @@ Revelation of relationships between molecular structure and catalytic performanc
 Detailed feature contribution analysis for high-performance photosensitizers like TCPP
 
 
-How to Use
+**How to Use**
 
 Clone the repository
 
